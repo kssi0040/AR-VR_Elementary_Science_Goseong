@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Text_XML>
+	<Field stage="0" id="0" Text="###은/는 경상남도 고성군 일대를 둘러볼 것입니다.경상남도 고성군은 중생대 퇴적층이 넓게 이루어져 중생대에 살았던 공룡의 발자국화석을 쉽게 발견할 수 있는 곳입니다. " char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="1" Text="또한 해안가에 위치하여 오랜 기간 해수의 침식을 받은 지층을 관찰할 수 있습니다. 이곳에서 공룡과 지층에 대해 이해하고 과학적으로 탐구해봅시다." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="0" id="2" Text="경상남도 고성군은 세계 3대 공룡발자국 유적지로 꼽히는 곳이지. 그리고 해수의 침식을 받은 지층을 관찰할 수 있는 곳이기도 해. 공룡의 흔적과 바다의 영향을 받은 지층을 동시에 살펴볼 수 있는 상족암 군립공원으로 먼저 가볼까?" char="player" anim="*" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="1" id="0" Text="경상남도 고성군 덕명리해안에 위치한 상족암 군립공원에 도착했습니까?" char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="1" Text="고성군 일대에서 공룡의 흔적을 찾는 공룡탐험대 출발!! 그런데 상족암 군립공원에서 무엇을 살펴보면 좋을까? 흠…" char="player" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="2" Text="안녕? 난 어린이 공룡 '디노'라고 해. 도움이 필요한 얼굴인데 내가 도와줄 것이 있을까? " char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="3" Text="앗, 너는 지금은 사라진 공룡이구나. 우리나라에서 너희의 흔적을 쉽게 찾아볼 수 있는 곳이 이곳이라고 해서 왔어. 공룡탐험대를 도와주겠니? " char="player" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="4" Text="맞아. 나는 백악기, 약 1억년 전에 이곳 경상남도 고성군 일대에서 살았어. 나와 내 친구들은 모두 사라졌지만, 우리의 흔적은 고성군 곳곳에 여전히 남아있지." char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="5" Text="너를 도와주도록 할게! 우리의 흔적을 찾기 전에 지층에 대해 먼저 살펴보는 건 어때?" char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="6" Text="디노야, 함께하기로 결정해줘서 고마워. 그럼 우리 출발하자." char="player" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="7" Text="상족암 군립공원을 둘러보았니?" char="dino" anim="dinoIdle" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="8" Text="해안가를 따라 이어진 상족암을 봐. 마치 책을 눕혀 쌓아 올린 것 같지? 이를 '지층'이라고 해. 지층에 대해 얼마나 알고 있니?" char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="9" Text="좋아! 지층의 형성에 대해 잘 알고 있구나. 지층의 아래쪽이 위쪽보다 오래전에 형성된 이유를 지층 형성 설명을 통해 직접 확인해 볼까? " char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="10" Text="자갈이나 모래, 흙이 물과 바람의 이동에 따라 운반되다가 이동력이 약해지는 강의 하류나 호수, 바다에 이르면 밑바닥에 쌓이게 됩니다." char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="11" Text="이렇게 진흙과 모래, 자갈이 오랜 시간 동안 차곡차곡 쌓이고 무거운 압력을 받아 단단해지면서 지층이 만들어집니다." char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="12" Text="지층의 형성 과정은 지층의 생김새에도 영향을 주곤 해. 퀴즈를 내볼게! 히힛!" char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="13" Text="지층은 흙, 모래, 자갈이 쌓여 굳어진 것이기 때문에, 무엇이 쌓였는지에 따라 지층의 생김새가 달라지기도 합니다. 돌의 크기에 따라 달라지는 지층의 줄무늬를 '층리'라고 합니다. 그러나 지층의 주된 생김새는 땅 속에 작용하는 힘의 세기에 따라 결정된답니다." char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="14" Text="맞아. 지층의 생김새는 땅 속에 작용하는 힘의 세기에 따라 달라져. 그리고 힘의 방향에 따라 달라지기도 해. 다양한 모양의 지층을 보여줄게! " char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="15" Text="수평으로 된 지층'은 순서대로 차곡차곡 쌓여 있지." char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="16" Text="휘어진 지층'은 지층의 옆이나 밑에서 오랫동안 힘을 받아 모양이 휘어져 있어. " char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="17" Text="양쪽에서 잡아당기거나 미는 힘에 의해 지층이 끊어지는 경우도 있는데, 이를 '끊어진 지층' 혹은 '단층'이라고 한단다." char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="18" Text="상족암은 오랜 시간 퇴적물이 쌓이고 굳어져 형성된 지층이야. &#xA;또한 오랜 시간에도 휘거나 끊어지지 않고 수평의 모습을 유지해 왔어. " char="player" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="19" Text="지층에 대해 완벽히 이해했구나! 그렇다면 자갈이나 모래, 흙이 이동하여 쌓이는 동안 누군가가 이 위를 밟고 지나간다면 어떻게 될까? 예를 들어, 상족암이 형성되던 시기에 내가 이 곳을 밟고 지나갔다면?" char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="20" Text="진흙 위에 디노가 뛰어가는 발자국이 남았겠지? " char="player" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="21" Text="진흙이 건조해지며 딱딱해집니다" char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="22" Text="진흙이 건조해지며 딱딱해집니다" char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="23" Text="발자국 위에 시간의 흐름에 따라 계속적으로 퇴적층이 쌓입니다." char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="24" Text="퇴적물들의 무게 및 열 등의 압력을 통해 암석으로 굳어집니다." char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="25" Text="공룡 발자국화석이 드러납니다." char="teacher" anim="teachAnim" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="26" Text="맞아! 공룡 발자국화석이 만들어진 과정을 이해했지? 상족암에서 나와 내 가족들의 발자국을 찾아보겠니? 이렇게 생긴 발자국을 찾으면 돼. " char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="27" Text="상족암에는 용각류 공룡의 발자국 흔적이 많구나. 그리고 디노, 너는 용각류 공룡이었어!" char="player" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="28" Text="맞아! 드디어 나를 제대로 알아봐줬구나! 하지만 고성군에는 용각류 공룡 외에도 많은 공룡들이 살았어. 다른 공룡들의 흔적을 찾아보고 싶니? 그렇다면 '제전마을'에서 만나자!" char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="1" id="29" Text="다양한 공룡의 발자국을 비교해보고 모양을 살펴볼 수 있는 곳으로 이동해 볼 거야. 제전마을로 가 보자." char="dino" anim="*" backImg="parkSangJok" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="2" id="0" Text="나 말고 다른 공룡들을 만날 준비가 됐지? 제전마을 해안에 도착했니?" char="dino" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="1" Text="응! 도착했어. 공룡탐험대의 임무를 본격적으로 수행해보겠어!" char="player" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="2" Text="우리는 경상남도 고성군 제전마을에서 다양한 종류의 공룡 발자국을 비교해보고 모양을 살펴볼거야. 그 전에 내 소개 좀 다시 할게. 나는 초식을 주로 하는 용각류 공룡인 디노라고 해." char="dino" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="3" Text="디노가 한 바퀴를 도니까 땅에 발자국이 생겼습니다!" char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="4" Text="맞아. 나는 용각류 공룡이야. 용각류 공룡에 대해 얼마나 알고 있니?" char="dino" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="5" Text="브라키오사우루스, 아파토사우루스. 이처럼 목이 길고 몸집이 커다란 초식 공룡을 용각류라고 합니다.  용각류 공룡은 공룡 중에서도 몸집이 가장 커다랗습니다." char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="6" Text="이들은 긴 목을 이용해서 나무 꼭대기에 있는 잎사귀도 따 먹곤 했습니다. 용각류 공룡은 몸집이 워낙 커서 육식공룡조차도 함부로 덤빌수가 없었다고 해요." char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="7" Text="대신 커다란 몸집을 유지하려고 하루에 1톤 이상의 풀을 먹었는데, 이빨이 듬성듬성 나 있어서 풀을 씹지 못하고 그냥 삼키는 경우가 많았습니다." char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="8" Text="용각류 공룡은 몸집이 거대했구나. 브라키오사우르스에게 먹이를 주려면 오늘날 4층 건물로 올라가야 할 정도라니 어마어마한걸! 용각류 공룡은 발도 컸나봐. 용각류 공룡의 발자국화석은 크기가 크고, 코끼리의 발처럼 둥근 모양을 하고 있어." char="player" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="9" Text="맞아. 난 아직 어린이 공룡이라서 작지만 앞으로 무럭무럭 클 거야! 용각류 공룡의 특징은 긴 목과 큰 몸이야. 혹시 제전마을에서 이렇게 생긴 발자국도 발견했니?" char="dino" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="10" Text="응, 찾았어! 이 발자국의 주인공은 누구일까? 디노 너의 발자국과 또 다르게 생겼는걸! 발가락이 3갈래로 나눠져 삼지창 모양을 하고 있어." char="player" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="11" Text="안녕! 나는 조각류 공룡 '이구'라고 해! 나도 디노처럼 초식공룡이야. " char="egu" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="12" Text="이구아노돈, 들어본적 있나요? 조각류 공룡은 머리나 등에 혹이나 뿔이 있는 초식공룡으로, 이구아노돈이 대표적입니다. 용각류 다음으로 지구 역사상 가장 거대한 육상동물이랍니다.  커다란 조각류 공룡은 네 발로 걷지만, 몸집이 작은 조각류는 두 발로 걷지요." char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="13" Text="우리나라에 있는 공룡 발자국의 대부분(약 85%)은 우리 조각류 공룡의 것이지. 조각류 공룡은 골반 뼈의 형태가 새(鳥)를 닮았다고 해서 붙여진 이름이야." char="egu" anim="eguAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="14" Text="조각류 공룡 이구도 덩치가 크지만, 용각류 공룡을 따라올 수는 없죠! 엣헴! 나는 겁낼 게 없다네~♪♬" char="dino" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="15" Text="어디선가 부스럭 거리는 소리가 들린다" char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="16" Text="무슨 일이지? 설마 수각류 공룡인가? " char="dino,egu" anim="dinoIdle" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="17" Text="디노, 이구! 무슨 일이야? 여태 내가 본 공룡 중에 너희보다 큰 공룡은 없었는걸? 겁먹지 않아도 돼!" char="player" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="18" Text="###, 우리가 덩치가 크긴 하지만 그래도 수각류 공룡은 무서운 존재야. 수각류 공룡에 대해 들어본 적 있니?" char="dino,egu" anim="dinoIdle" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="19" Text="티라노사우르스, 벨로시랩터. 한 번 쯤은 들어봤을 거에요. 이빨이 날카롭고 발톱이 뾰족한 육식공룡을 모두 수각류라고 합니다." char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="20" Text="수각류 공룡은 다른 동물의 고기를 먹었고, 몸집이 작은 수각류 공룡은 곤충을 먹었지요. 수각류 공룡의 발자국화석은 3개의 발가락이 보이는 좁고 뾰족한 모양을 하고 있답니다." char="teacher" anim="teachAnim" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="21" Text="휴. 우리의 착각이었나봐. 그나저나 이제 제전마을의 발자국 주인들을 모두 만난 것 같은데, 확인해볼까?" char="dino,egu" anim="dinoIdle" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="22" Text="수각류, 용각류, 조각류 공룡의 생김새와 특징을 완벽히 이해했어. 고성군 일대를 둘러보며 공룡의 흔적을 찾는 공룡탐험대의 여정이 끝났어! 디노야, 이구야, 너희들 덕분에 여정을 무사히 마무리할 수 있었어. 고마워!" char="player" anim="*" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="23" Text="우리가 도움이 됐다니 쑥스럽네. 하핫.&#xA;이곳 제전마을에서 다양한 공룡의 발자국화석을 관찰하고, 중생대 백악기의 공룡에 대해 상상해볼 수 있었지? 우리가 그동안 만난 공룡들을 불러서 너만의 공룡파크를 만들어봐." char="dino,egu" anim="dinoIdle" backImg="jejeon" type="noneTalk" who="*"/>
+	<Field stage="2" id="24" Text="축하합니다! 지금까지 경남 고성의 주요장소를 살펴 보았습니다. 경남 고성의 여행자로 첫 발을 떼신 걸 축하드립니다. 이제 경남 고성의 또 다른 명소를 구경하러 떠나볼까요? 관광하고 싶은 곳을 자유롭게 선택하세요." char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="3" id="0" Text="고성 공룡박물관은 3층 건물로, 총 5개의 전시실로 구성되어 있습니다. 제1전시실에는 공룡뼈 화석으로 복원된 공룡 모형이 있습니다. 제5전시실에서 고생대의 삼엽충과 중생대의 암모나이트 화석을 찾아봅시다." char="teacher" anim="teachAnim" backImg="museum" type="noneTalk" who="*"/>
+	<Field stage="3" id="1" Text="공룡박물관 공식 홈페이지에서 전시물의 정보를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="museum" type="noneTalk" who="*"/>
+	<Field stage="3" id="2" Text="몇몇 조각류 공룡들은 육식을 하거나, 곤충을 잡아먹기도 했습니다. 그러나 육식을 주식으로 했던 공룡은 수각류 공룡입니다." char="teacher" anim="teachAnim" backImg="museum" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="4" id="0" Text="당항포관광지의 공룡발자국 탐방로에서는 퇴적암에 공룡 발자국화석이 생기는 과정을 자세히 살펴볼 수 있습니다. " char="teacher" anim="teachAnim" backImg="dangHang" type="noneTalk" who="*"/>
+	<Field stage="4" id="1" Text="당항포 공식 홈페이지에서 각종 전시관 정보를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="dangHang" type="noneTalk" who="*"/>
+	<Field stage="4" id="2" Text="해안가에는 갯벌이 펼쳐져 있어서 공룡의 발자국이 생기기 좋은 조건을 갖추고 있다." char="teacher" anim="teachAnim" backImg="dangHang" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="5" id="0" Text="덕명리해안에서 화성암에 공룡 발자국화석이 생기는 과정을 자세히 살펴볼 수 있습니다. 공룡 발자국화석은 흔히 퇴적암에서 발견되는데, 덕명리해안에서는 화성암 공룡 발자국화석이  발견되어 학계의 뜨거운 관심을 받기도 했습니다. " char="teacher" anim="teachAnim" backImg="duckMyeung" type="noneTalk" who="*"/>
+	<Field stage="5" id="1" Text="사이버 공룡 테마파크 홈페이지에서 덕명리해안의 공룡 발자국화석에 대한 정보를 확인할 수 있습니다." char="teacher" anim="teachAnim" backImg="duckMyeung" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+	<Field stage="6" id="0" Text="축하합니다! '초등과학 교육관광-출동 공룡탐험대!'에서 준비한 경남 고성 지도를 모두 살펴 보았습니다. 당신은 경남 고성의 자유 여행자가 되었습니다!" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="6" id="1" Text="경남 고성에는 숨겨진 좋은 장소가 많답니다! 숨은 명소를 발굴하여 나만의 관광 지도를 만들어 보면 어떨까요? 내가 가는 곳이 곧 길이고 아는 만큼 보인다!&#xA;-초등과학 교육관광-출동 공룡탐험대!-" char="teacher" anim="teachAnim" backImg="*" type="noneTalk" who="*"/>
+	<Field stage="*" id="*" Text="*" char="*" anim="*" backImg="*" type="*" who="*"/>
+</Text_XML>

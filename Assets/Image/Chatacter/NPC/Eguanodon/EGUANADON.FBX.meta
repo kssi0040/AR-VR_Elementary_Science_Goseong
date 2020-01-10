@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: c04de5cf6f88c354082969ad653c822c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone001(mirrored)(mirrored)
+    100004: Bone002
+    100006: Bone002(mirrored)(mirrored)
+    100008: Circle001
+    100010: Circle002
+    100012: Circle003
+    100014: Circle004
+    100016: //RootNode
+    100018: Emtpy_0
+    100020: Emtpy_01
+    100022: Emtpy_02
+    100024: Emtpy_04
+    100026: Emtpy_05
+    100028: Emtpy_06
+    100030: Head
+    100032: IK Chain001
+    100034: IK Chain002
+    100036: IK Chain003
+    100038: IK Chain004
+    100040: IK Chain005
+    100042: IK Chain006
+    100044: L_arm_01
+    100046: L_arm_02
+    100048: L_hand
+    100050: L_leg_01
+    100052: L_leg_02
+    100054: L_leg_03
+    100056: L_Toe
+    100058: Neck_01
+    100060: Neck_02
+    100062: Neck_03
+    100064: Neck_04
+    100066: Pivet
+    100068: Plane001
+    100070: R_arm_01
+    100072: R_arm_02
+    100074: R_hand
+    100076: R_leg_01
+    100078: R_leg_02
+    100080: R_leg_03
+    100082: R_Toe
+    100084: Spine_01
+    100086: Spine_02
+    100088: Spine_03
+    100090: Spine_04
+    100092: Tail_01
+    100094: Tail_02
+    100096: Tail_03
+    100098: Tail_04
+    100100: Tail_05
+    100102: Tail_06
+    100104: Tail_07
+    100106: Tail_08
+    100108: TopoSurface001
+    400000: Bone001
+    400002: Bone001(mirrored)(mirrored)
+    400004: Bone002
+    400006: Bone002(mirrored)(mirrored)
+    400008: Circle001
+    400010: Circle002
+    400012: Circle003
+    400014: Circle004
+    400016: //RootNode
+    400018: Emtpy_0
+    400020: Emtpy_01
+    400022: Emtpy_02
+    400024: Emtpy_04
+    400026: Emtpy_05
+    400028: Emtpy_06
+    400030: Head
+    400032: IK Chain001
+    400034: IK Chain002
+    400036: IK Chain003
+    400038: IK Chain004
+    400040: IK Chain005
+    400042: IK Chain006
+    400044: L_arm_01
+    400046: L_arm_02
+    400048: L_hand
+    400050: L_leg_01
+    400052: L_leg_02
+    400054: L_leg_03
+    400056: L_Toe
+    400058: Neck_01
+    400060: Neck_02
+    400062: Neck_03
+    400064: Neck_04
+    400066: Pivet
+    400068: Plane001
+    400070: R_arm_01
+    400072: R_arm_02
+    400074: R_hand
+    400076: R_leg_01
+    400078: R_leg_02
+    400080: R_leg_03
+    400082: R_Toe
+    400084: Spine_01
+    400086: Spine_02
+    400088: Spine_03
+    400090: Spine_04
+    400092: Tail_01
+    400094: Tail_02
+    400096: Tail_03
+    400098: Tail_04
+    400100: Tail_05
+    400102: Tail_06
+    400104: Tail_07
+    400106: Tail_08
+    400108: TopoSurface001
+    2100000: _EguanidondefaultMat
+    4300000: Plane001
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Plane001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
